@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.topNav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: darkcyan;
+}
+.listItem{
+    float: left;
+    border-right: 1px solid white;
+}
+/*.listItem .item{*/
+/*    display: block;*/
+/*    text-align: center;*/
+/*    font-family: sans-serif;*/
+/*    font-size: 20px;*/
+
+}
+.listItem .item:hover{
+    background: red;
+}

@@ -1,0 +1,19 @@
+body{
+    background: lightpink;
+
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.colOne{
+    background: darkmagenta;
+    padding: 20px;
+    border-radius: 20px;
+}
+label{
+    color: white;
+    size: 18px;
+    font-family: sans-serif;
+}
